@@ -1,9 +1,9 @@
-<h1> Hello, I'm Vikram Singh Bedi, great to see you here!
-  <a href="https://taggo.one/clcmo"><img src="https://github.com/SinghVikram97/singhVikram97/blob/master/memoji.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h1> Hello, I'm Apoorv Shamma, great to see you here!
+  <a href="https://taggo.one/clcmo"><img src="https://github.com/blob/master/memoji.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 * 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
 
-* 🧑🏻‍💻 Software Engineer with 3 years of experience working for companies like Expedia Group, and Paytm. 
+* 🧑🏻‍💻 Software Engineer with 2 years of experience working for companies like Expedia Group, and Paytm. 
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
@@ -12,10 +12,10 @@
 Find out more about me & feel free to connect with me here:
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/vikramsinghbedi">
+	<a href="https://www.linkedin.com/in/apoorv-shamma">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="bediv@uwindsor.ca">
+        <a href="shamma@uwindsor.ca">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
@@ -41,15 +41,13 @@ Find out more about me & feel free to connect with me here:
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring-data&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![VueJS](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
+
 
 ### 🗃️ Database Systems & Management
 
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🧪 Testing
 
@@ -92,18 +90,18 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=singhVikram97&show_icons=true&hide_border=true\&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=singhVikram97&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Apoorvs23&show_icons=true&hide_border=true\&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Apoorvs23&hide_border=true" />
 </p>
 
 
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhVikram97&layout=compact&hide_border=true" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorvs23&layout=compact&hide_border=true" />
 </p>
 
-<!--![Vikram's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=singhVikram97&hide_border=true&theme=redical)-->
+<!--![Apoorvs's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Apoorvs23&hide_border=true&theme=redical)-->
 
 <p align="center">
    <img src="https://github.com/asmitbm/asmitbm/blob/output/github-contribution-grid-snake.svg" alt="snake">
