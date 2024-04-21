@@ -1,5 +1,5 @@
 <h1> Hello, I'm Apoorv Shamma, great to see you here!
-  <a href="https://github.com/Apoorvs23"><img src="https://github.com/Apoorvs23/Apoorvs23/blob/master/gif.gif"  width="15%" align="right" alt="Memoji"/></a><img src="https://github.com/Apoorvs23/Apoorvs23/blob/master/gif.gif" width="5%"></h1>
+  <a href="https://github.com/Apoorvs23"><img src="https://github.com/Apoorvs23/Apoorvs23/blob/master/gif.gif"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 * 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
 
@@ -29,7 +29,7 @@ Find out more about me & feel free to connect with me here:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%23-purple)
 ![SQL](https://img.shields.io/badge/SQL-005C8A?style=for-the-badge&logo=sql&logoColor=white)
