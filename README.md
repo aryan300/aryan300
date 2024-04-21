@@ -1,5 +1,5 @@
 <h1> Hello, I'm Apoorv Shamma, great to see you here!
-  <a href="https://taggo.one/clcmo"><img src="https://github.com/blob/master/memoji.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+  <a href="https://github.com/Apoorvs23"><img src="https://github.com/Apoorvs23/Apoorvs23/blob/master/gif.gif"  width="15%" align="right" alt="Memoji"/></a><img src="https://github.com/Apoorvs23/Apoorvs23/blob/master/gif.gif" width="5%"></h1>
 
 * 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
 
@@ -26,54 +26,48 @@ Find out more about me & feel free to connect with me here:
 
 ### 🚀 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-purple)
 ![SQL](https://img.shields.io/badge/SQL-005C8A?style=for-the-badge&logo=sql&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🧩 Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring-cloud&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring-data&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ASP%20.NET-9400D3?style=for-the-badge&logo=.NET)
+
 
 
 ### 🗃️ Database Systems & Management
 
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL%20Server%20Management%20Studio%20(SSMS)%20-brown?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧪 Testing
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-008AFF?style=for-the-badge&logo=mockito&logoColor=white)
-![MockK](https://img.shields.io/badge/MockK-E85B0C?style=for-the-badge&logo=mockk&logoColor=white)
-![Powermock](https://img.shields.io/badge/Powermock-F9AB00?style=for-the-badge&logo=java&logoColor=white)
-![LocalStack](https://img.shields.io/badge/LocalStack-FF8C00?style=for-the-badge&logo=localstack&logoColor=white)
 
 ### 🔄 CI/CD
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/UrbanCode%20Deploy%20(UCD)-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Spinnaker](https://img.shields.io/badge/Spinnaker-009688?style=for-the-badge&logo=spinnaker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
 
 ### 💻 Other Tools
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6E5C9E?style=for-the-badge&logo=openapi-initiative&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Azure%20Devops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL%20Server%20Integration%20Services%20(SSIS)%20-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -85,24 +79,6 @@ Find out more about me & feel free to connect with me here:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/macOS-%23000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-## 📈 Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Apoorvs23&show_icons=true&hide_border=true\&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Apoorvs23&hide_border=true" />
-</p>
-
-
-## 🔝 Most used languages
-
-<p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorvs23&layout=compact&hide_border=true" />
-</p>
-
-<!--![Apoorvs's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Apoorvs23&hide_border=true&theme=redical)-->
-
-<p align="center">
-   <img src="https://github.com/asmitbm/asmitbm/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
