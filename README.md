@@ -31,7 +31,6 @@ Find out more about me & feel free to connect with me here:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C%23-purple)
 ![SQL](https://img.shields.io/badge/SQL-005C8A?style=for-the-badge&logo=sql&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -82,3 +81,7 @@ Find out more about me & feel free to connect with me here:
 ![Static Badge](https://img.shields.io/badge/macOS-%23000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
+### 🗎 Publications
+![Static Badge](https://img.shields.io/badge/IEEE-%2300629B?style=for-the-badge&logo=ieee&logoColor=white) :  <a href="https://ieeexplore.ieee.org/abstract/document/9596358"> Driver Drowsiness Detection Using Machine Learning and Image Processing</a>
+![Static Badge](https://img.shields.io/badge/SSRN-%23154881?style=for-the-badge&logo=ssrn&logoColor=white) : <a href="[https://ieeexplore.ieee.org/abstract/document/9596358](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3589962)">A Performance Comparisons of Machine Learning Classification Techniques for Job Titles Using Job Descriptions</a>
+ 
