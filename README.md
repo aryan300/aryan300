@@ -86,5 +86,5 @@ Find out more about me & feel free to connect with me here:
 <a href="https://ieeexplore.ieee.org/abstract/document/9596358"> Driver Drowsiness Detection Using Machine Learning and Image Processing</a>
 
 ![Static Badge](https://img.shields.io/badge/SSRN-%23154881?style=for-the-badge&logo=ssrn&logoColor=white) : 
-<a href=" https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3589962" >A Performance Comparisons of Machine Learning Classification Techniques for Job Titles Using Job Descriptions</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3589962"> A Performance Comparisons of Machine Learning Classification Techniques for Job Titles Using Job Descriptions</a>
  
