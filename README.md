@@ -3,7 +3,7 @@
 
 * 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
 
-* 🧑🏻‍💻 Software Engineer with 2 years of experience working for companies like Expedia Group, and Paytm. 
+* 🧑🏻‍💻Software Engineer with two years of experience specializing in back-end development, having previously worked at Tata Consultancy Services (TCS).
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
