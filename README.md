@@ -12,7 +12,7 @@
 Find out more about me & feel free to connect with me here:
 
 <p align="left">
-	<a href="www.linkedin.com/in/aryan-batra">
+	<a href="https://www.linkedin.com/in/aryan-batra/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
         <a href="aryanbatra10@gmail.com">
